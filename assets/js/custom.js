@@ -46,7 +46,7 @@ $(document).ready(function(){
 			event.preventDefault();
 			var anchor = $(this);
 			$('html, body').stop().animate({
-				scrollTop: $(anchor.attr('href')).offset().top - 200
+				scrollTop: $(anchor.attr('href')).offset().top - 120
 			}, 1200,'easeInOutExpo');
 		});
 		
