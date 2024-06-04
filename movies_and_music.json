@@ -1,0 +1,51 @@
+{
+    "movies": [
+      {
+        "name": "Parasyte: The Grey",
+        "link": "https://www.youtube.com/watch?v=maIGHqJB6aQ",
+        "image": "/assets/images/musicnmovies/parasyte.jpg"
+      },
+      {
+        "name": "Seven Sundays",
+        "link": "https://www.youtube.com/watch?v=BMUhYuKN4eo",
+        "image": "/assets/images/musicnmovies/sevensundays.jpg"
+      },
+      {
+        "name": "A Walk To Remember",
+        "link": "https://www.youtube.com/watch?v=k3B2XBcp7vA",
+        "image": "/assets/images/musicnmovies/awalktoremember.jpg"
+      },
+      {
+        "name": "Your Name",
+        "link": "https://www.youtube.com/watch?v=xU47nhruN-Q",
+        "image": "/assets/images/musicnmovies/yourname.jpg"
+      }
+    ],
+    "music": [
+      {
+        "name": "Dilaw",
+        "artist": "Maki",
+        "link": "https://www.youtube.com/watch?v=L215z9C4Zd8",
+        "image": "/assets/images/musicnmovies/dilaw.jpg"
+      },
+      {
+        "name": "Snooze",
+        "artist": "SZA",
+        "link": "https://www.youtube.com/watch?v=bs0qR3-7lIY",
+        "image": "/assets/images/musicnmovies/saturn.jpg"
+      },
+      {
+        "name": "Sparkle",
+        "artist": "Radwimps",
+        "link": "https://www.youtube.com/watch?v=MgNItWdfEIU",
+        "image": "/assets/images/musicnmovies/sparkle.jpg"
+      },
+      {
+        "name": "Heaven Knows",
+        "artist": "Orange and Lemons",
+        "link": "https://www.youtube.com/watch?v=Mrlyj9JhrR4",
+        "image": "/assets/images/musicnmovies/heavenknows.jpg"
+      }
+    ]
+  }
+  

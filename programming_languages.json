@@ -1,0 +1,24 @@
+{
+    "programming_languages": {
+      "section_heading": "Favorite Programming Languages",
+      "skills": [
+        {
+          "name": "HTML",
+          "proficiency": 80
+        },
+        {
+          "name": "CSS",
+          "proficiency": 55
+        },
+        {
+          "name": "JavaScript",
+          "proficiency": 45
+        },
+        {
+          "name": "PHP",
+          "proficiency": 65
+        }
+      ]
+    }
+  }
+  

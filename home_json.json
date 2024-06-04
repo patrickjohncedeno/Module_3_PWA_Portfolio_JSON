@@ -1,0 +1,24 @@
+{
+    "about": {
+      "section_heading": "about me",
+      "about_content": {
+        "title": "As a third-year BS Information Technology student, I am eager to immerse myself in the realm of programming and coding, seeking to expand my skills and expertise in the field.",
+        "description": "Embarking on this educational odyssey, I aim to delve into the intricacies of programming languages, software development methodologies, and cutting-edge technologies. With a focus on hands-on learning and practical application, I am poised to tackle challenges and cultivate a deep understanding of the ever-evolving landscape of IT. This subheading encapsulates my aspiration to navigate the dynamic world of programming, paving the way for innovation and advancement in the field.",
+        "profile_image": "assets/images/about/profile_image.jpg",
+        "social_links": [
+          {
+            "platform": "facebook",
+            "url": "facebook.com",
+            "icon": "fa fa-facebook"
+          },
+          
+          {
+            "platform": "instagram",
+            "url": "#",
+            "icon": "fa fa-instagram"
+          }
+        ]
+      }
+    }
+  }
+  
